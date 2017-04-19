@@ -1,3 +1,53 @@
 body {
-  background-color: gray;
+  background-color: white;
+  margin:0 10%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.intro{
+  font-size: 24px;
+  font-style: italic;
+  line-height: 30px;
+  color: pink;
+}
+
+h1{
+  text-align: center;
+  color: gray;
+  font-family: sans-serif;
+  }
+
+  /*img {
+    margin: 0 15%;
+  }*/
+
+.flashy{
+  color: red;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.best {
+  font-size: 48px;
+  color: red;
+  font-variant: small-caps;
+  font-family: sans-serif;
+  margin: 0 15%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 30px;
+}
+
+footer {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: gray;
+  text-align: center;
 }
